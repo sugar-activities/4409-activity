@@ -1,0 +1,52 @@
+NEWS
+
+9
+
+* Added COPYING file
+* New translations
+
+8
+
+* es, it translations
+* scoring based on tile complexity
+* fixed some regression in tile placement due to 'drag' animation
+
+7
+
+* fixed regression in robot play
+* fixed problem with restore when sharing
+* fixed problem with short deal when sharing with 3 players
+
+6
+
+* fixed scaling problem on old-style Sugar that caused clipping of bottom row
+* refactoring to enable sharing
+* animate dragging tiles
+* added scoring
+* added hint button
+
+5
+
+* reset card highlight between games
+* .es translations
+
+4
+
+* play with a robot
+* highlights closed paths
+
+3
+
+* new game button
+* enabled save/restore to Journal
+* highlight active tile
+* highlight playable grid coordinates
+
+2
+
+* fixed regression preventing launch from GNONE
+* prevent new tile play while a path error is on the board
+
+1
+
+* New project: tile generation; basic play
